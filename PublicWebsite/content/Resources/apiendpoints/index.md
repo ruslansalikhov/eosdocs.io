@@ -42,6 +42,7 @@ That said below is a quick reference to some public API endpoints that can be us
 * `https://api.eosio.cr:443`
 * `https://api.eosn.io`
 * `https://eu1.eosdac.io:443`
+* `https://api-eos.blckchnd.com`
 
 #### Usage Note for cleos users
 
